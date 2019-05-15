@@ -1,7 +1,8 @@
 # SimpleJavaQuizGUI
 Contoh Aplikasi Java Kuis Java dengan GUI
 
-Terima kasih untuk Mr. arcy di stackoverflow, untuk jawabannya yang ini : https://stackoverflow.com/a/23856409
+* Terima kasih untuk Mr. arcy di stackoverflow, untuk jawabannya yang ini : https://stackoverflow.com/a/23856409
+* Terima kasih untuk [om Yohanes](https://www.facebook.com/yohanes) juga :)
 
 **Sekilas cerita, kenapa saya buat program ini**
 
