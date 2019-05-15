@@ -1,6 +1,8 @@
 # SimpleJavaQuizGUI
 Contoh Aplikasi Java Kuis Java dengan GUI
 
+Terima kasih untuk Mr. arcy di stackoverflow, untuk jawabannya yang ini : https://stackoverflow.com/a/23856409
+
 **outputnya akan seperti ini, jika benar :**
 
 ![](betul.png)
